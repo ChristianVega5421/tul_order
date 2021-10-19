@@ -1,0 +1,4 @@
+CREATE SCHEMA sale
+    AUTHORIZATION postgres;
+
+CREATE EXTENSION pgcrypto;
